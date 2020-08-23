@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ntp-flight",
+  "private_key_id": "58ac2c50fbb18c8780ac969574aa1c35059c455e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC/E2mg8JAtwHoQ\nfJNw8kxEydMA/ctYsvI5B5SUdASGDz6F4JhiC+SNUiD8hk7syjqStD4gwM9wrhUP\nKA3w4GZZT7YIx8ZpU4QrplMqPzFfXZiQhEuVZ10kj8HHLqU49HEo4J3U468DZK6A\nCX4NmRv9XguWJoa49eVwXixgvZ+XCm8ak/0HBkVov4e96KQqI70IWppnlQofjfrG\nX5+rJYvg+FooswNQ3I5Oo+OMs0IlhCt/Rssj/nMrjaBP2/RKzkxEWOh/SLIDotxZ\ndzE393mBdgOwbkbzNFOjsNprj7yPu5otg9VdlEXXclrxCxGnMGVL92aElkLIyoJA\nzLpWUssLAgMBAAECggEABc4KLHiCeNFbI/sU456I0KItBd+v+M7e6vqe+e+YX5ZA\n+QI8vuXLmLuBAwr1hN4T73cIWChjZPH089PssH+wvE/eoN+o2HRQFJ9l8WegEVyf\nkOxj+3L7cmvnoCx7moJambpRMTGFlJ3Pa1ZefP1Ey2q7AWHEQARAZyyFPp8kJQt/\nqbJ8NF4+zhD0CynxF3xP1u9ZyjsooWyC6VPzznzQ6HnoI2NVoKdO+473p3hZXPXA\nBSoBvCMXDwyYU3HoGScHtIs2lUc9oO3qyE6xL5yduKFNoFTl0sQChIAfkDCCTynG\nTV/mKhZDqmR6NjFUqKYextY8a/QmiT57DKT7qgLEWQKBgQDhpw/+83ag2NRGWnbG\nMepOYFv3EGciFsaWSrvZ2Cl7EGEWBDMzaYGO5I0ZdTA7sjuU20oo6SdoZt4jt3dI\nHNxBgYMBVH70RjC0rBayAiXwnBdRwjsYf2w6m+nH3jCZcAMiz7vxQOENAkuljR7m\nM2Y/rcC4qLY2xGJ6wZo6Pbk9vQKBgQDYxepaixTT97aGKbcCblYQP2+QwBsm1ZYa\nkiiTwCHRIX2ZnAQ+/0eAI4F7eVwWWrXh/6jxKJq2qPT/3nBNqqZ0w77/62vkCNn0\neV7DD4cLgAv8bKdlhvYXrdGbk6mmDx+Gxs28gv5X/iY+wTNr33A3PSKWbuVBdIZW\nCtRXVmQEZwKBgQDcV+EDyMNO/0wRQub2U+mDDQ7ga1D59ZmHSoSyjSS8OdtDv2gr\nzNupJ74sXMVzlXAexB9fYYSMqt5BrDY64YumH4xIMTUi3KNU2TH0MqrPj+wpdutz\n2YFancKj23BDdCBrzsOsKflYVaR+jRXeHdS7W7Rz3LLJOe0cB47NTlZjVQKBgBaj\nNIIYHCi2qb0BBjeexiYUOdZn+W3oyDAmK06iteVdFfzAqkDZ7+GV06PNXKyI9I2R\nYVct4lpI8qz10cyKka+H8Z5QO4go1HoPYrIEIRo2WQoXXrPfkDuQz17r4L+SvLwa\nbsnM9DrEM8JB8tjFELb0D3SeSBq5zH2Xy+0C/JbpAoGBAKdHlQ0UZhYB0E6HbeQo\n+4zDWdCLWKmM2wSb/xpT1eknmp903lzkB9kSg1bxOyU3eOcgEcxcRwNdfVrRMRBE\njWrv2rzk6XsTBaJH5XtE4Yb+TlEmtUTu2844y5M7479Q6jWW1CncDvBs/a+N7nZp\noBDI50AgXycx+WT960w2KoNx\n-----END PRIVATE KEY-----\n",
+  "client_email": "snepal@ntp-flight.iam.gserviceaccount.com",
+  "client_id": "117853166845936110389",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/snepal%40ntp-flight.iam.gserviceaccount.com"
+}
