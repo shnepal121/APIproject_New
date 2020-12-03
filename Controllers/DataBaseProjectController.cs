@@ -15,7 +15,7 @@ namespace APIproject.Controllers
         public ApplicationDbContext dbContext;
         private const string V = "next_page_token";
         HttpClient httpClient;
-        static string key = "AIzaSyAdjZUL9htcWqhQRaTazHBRHV11CYBokr4"; // Add API key here
+        static string key = "XXXX"; // Add API key here
 
         public DataBaseProjectController(ApplicationDbContext context)
         {
